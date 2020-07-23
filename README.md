@@ -1,7 +1,7 @@
 # ProgrammersProclamation
 Rules the team should try and live by. template to be amended at the start of a project.
 
-### CheckInDance - do this before every commit
+### CheckInDance - Do this before every commit
 1) Run your tests
 2) git pull --rebase
 3) Run your tests
@@ -11,7 +11,7 @@ Rules the team should try and live by. template to be amended at the start of a 
 (if team is big){ pull --rebase }
 7) push
 
-### Article 1 - communication is key. always
+### Article 1 - Communication is key. always
 - A) Ask, offer and welcome help, teach someone to fish don't just give them fish.
 - B) Speak up soon, clearly and directly (if someone commits messes up code, then up the whole team messed up cuz it should have been talked about or reviewed)
 - C) The team deserves the benefit of the doubt (don't point fingers, unless you screwed up, then see Art.1B)
