@@ -8,7 +8,7 @@ Rules the team should try and live by. template to be amended at the start of a 
 4) do code review 
 5) Modify ? start over at 1 : move on to 4
 6) commit
-(if team is big){ pull --rebase }
+* (if team is big){ pull --rebase }
 7) push
 
 ### Article 1 - Communication is key. always
