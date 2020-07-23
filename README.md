@@ -24,7 +24,8 @@ Rules the team should try and live by. template to be amended at the start of a 
 - A) Boy scout rule: leave all code you touch a little cleaner than when you started
 - B) It is your job to do that thing.
 
-## LocalLaw
-this part is decided between the team.
-*
-*
+## Local Law
+This part is decided between the team.
+* CSS master style guide link goes here.
+* 2 or 4 Spaces or tabs?
+* Comments in code or No?
